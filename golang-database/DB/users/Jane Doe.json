@@ -1,0 +1,10 @@
+{
+	"Name": "Jane Doe",
+	"Age": 30,
+	"Address": {
+		"City": "San Francisco",
+		"State": "CA",
+		"Country": "USA",
+		"Pincode": 94101
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"Name": "John Doe",
+	"Age": 25,
+	"Address": {
+		"City": "New York",
+		"State": "NY",
+		"Country": "USA",
+		"Pincode": 10001
+	}
+}

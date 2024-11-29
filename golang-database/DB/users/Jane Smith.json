@@ -1,0 +1,10 @@
+{
+	"Name": "Jane Smith",
+	"Age": 40,
+	"Address": {
+		"City": "Chicago",
+		"State": "IL",
+		"Country": "USA",
+		"Pincode": 60007
+	}
+}
